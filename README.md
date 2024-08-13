@@ -11,16 +11,11 @@
 
 ## 🛠 Tech Stack
 
-**Languages:**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **C++** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+- **React.js** ![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+- **VS Code** ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+- **Git** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- **GitHub** ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-**Frontend:**
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Backend:**
-- ![Node.js](https://img.shields.io/b
